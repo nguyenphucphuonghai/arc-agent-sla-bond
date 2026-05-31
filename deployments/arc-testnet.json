@@ -1,0 +1,8 @@
+{
+  "chainId": 5042002,
+  "rpc": "https://rpc.testnet.arc.network",
+  "contract": "ArcAgentSlaBond",
+  "address": "0xC0A1B855320EAD1039430a0bf7226aF90fdEC9DB",
+  "txHash": "0x977c3bf89befcb2e84091186be77d48be03e674a742e3704c5b445379007b85a",
+  "deployer": "0xF226712E3Bb91156E985eb995E1ae524Ca8896EC"
+}
