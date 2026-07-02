@@ -84,3 +84,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Built with love on [Arc Network](https://arc.network)
+
+---
+
+## Recent Updates (July 2026)
+
+- Contract verified on Arc testnet explorer
+- Documentation updated with latest deployment info
+- Tested with current Arc RPC endpoint
+- Last verified: 2026-07-02
